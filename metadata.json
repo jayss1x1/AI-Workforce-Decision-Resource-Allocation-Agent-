@@ -1,0 +1,6 @@
+{
+  "name": "AI Workforce Allocation Agent",
+  "description": "Dynamic AI-driven workforce allocation and adaptive task reallocation engine powered by CP-SAT and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
